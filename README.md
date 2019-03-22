@@ -3,7 +3,7 @@ Creates point cloud (pcl) from depth image stored in a text file
 
 For point cloud go to directory pcl
 
-![Alt text](//img.PNG?raw=true "Title")
+![Alt text](point_cloud_from_depth/img.PNG?raw=true "Title")
 
 
 For finding clearance
