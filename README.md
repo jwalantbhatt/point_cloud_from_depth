@@ -3,8 +3,9 @@ Creates point cloud (pcl) from depth image stored in a text file
 
 For point cloud go to directory pcl
 
-![Alt text](/img.png?raw=true "Title")
+![pcl pc](https://github.com/jwalantbhatt/point_cloud_from_depth/blob/master/img.PNG)
 
+![pcl pc_ri](https://github.com/jwalantbhatt/point_cloud_from_depth/blob/master/images/human_corridor_2.jpg)
 
 For finding clearance
 
