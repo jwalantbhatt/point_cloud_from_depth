@@ -25,7 +25,7 @@ vfov = float(50)/132
 obs_array = img_array[32:102]					  
 d_array = obs_array
 obs_array = img_array[32:102]
-dist_x = float(1.6)*cos(radians(55))                                     # approximating distnce of the corridor
+dist_x = float(1.6)*cos(radians(55))                                     	  # approximating distnce of the corridor
 
 
 # list of clearance at each height 
